@@ -13,3 +13,9 @@ Development Integration Environment（集成开发环境）：Visual Studio 2019
 
 
 developer（开发者）：https://www.google.com    https://www.coinba.pro/
+
+download url（下载地址）：
+
+链接：https://pan.baidu.com/s/1ZtrIAicoppgZ5Fo4ahizfQ
+
+提取码：415c 
