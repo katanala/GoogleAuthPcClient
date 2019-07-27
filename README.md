@@ -12,7 +12,8 @@ Environmental dependence（运行依赖）: .NETFramework v4.7.2
 Development Integration Environment（集成开发环境）：Visual Studio 2019
 
 
-developer（开发者）：https://www.google.com    https://www.coinba.pro/
+developer（开发者）：https://www.coinba.pro/
+
 
 download url（下载地址）：https://github.com/katanala/GoogleAuthPcClient/releases
 
