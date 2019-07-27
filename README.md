@@ -1,6 +1,6 @@
 #### GoogleAuthWindowsClient（谷歌身份验证器 Windows 客户端）
 
-| English Desc | 中文描述 | 说明 |
+| English Desc | 中文描述 | Value |
 | ------------ | ------------ | ------------ |
 | Supported Operating System | 操作系统 | windows7 + |
 | Environmental Dependence | 运行依赖 | .NETFramework v4.7+ |
