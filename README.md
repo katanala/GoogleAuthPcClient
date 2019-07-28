@@ -8,6 +8,6 @@
 | Developer | 开发者 | https://www.coinba.pro/ |
 | Release Download | 下载地址 | https://github.com/katanala/GoogleAuthPcClient/releases |
 
-### screenshot （截图）
+### screenshot （使用截图）
 
 ![markdown](https://lookimg.com/images/2019/07/28/njpd3.png)
